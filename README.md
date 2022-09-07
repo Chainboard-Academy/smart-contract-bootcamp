@@ -18,7 +18,7 @@
 ### Learning materials
 
 
-
+---
 [Discord](https://discord.gg/JKYJBTx9QA) | [Twitter](https://twitter.com/Chainboard_) | [LinkedIn](https://www.linkedin.com/company/chainboard-academy/?viewAsMember=true)  
 
 Made by [BytePitch](https://bytepitch.com/) with ❤️
