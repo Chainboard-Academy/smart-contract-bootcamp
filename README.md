@@ -84,3 +84,9 @@ Now it’s time to test what you’ve picked up so far and check the necessary b
 - Install VSCode, hardhat, npm
 - Configure github actions
 - Add a functionality to see all the donors from the Donations contract (from the coding session)
+
+
+
+| Week | Lecture | Home assignment |
+| :---:  | --- | --- |
+| 1 | [Blockchain introduction 1.0](https://docs.google.com/presentation/d/1FDmZtSe_2LRUNE8xLC6Faq4FyMkkcztv2i2-D7ObXf4/edit?usp=drivesdk) | List all *new or modified* files |
