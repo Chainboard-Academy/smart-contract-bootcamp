@@ -1,6 +1,6 @@
-## Welcome to Solidity Smart-contract Developer Bootcamp!
+# Welcome to Solidity Smart-contract Developer Bootcamp!
 
-### Course content
+## Course content
 
 | Week | Lecture | Home assignment |
 | :---:  | :---: | :---: |
@@ -15,12 +15,54 @@
 | 9 | [Decentralized exchange](https://docs.google.com/presentation/d/1ssG9f8lnuSmz8000QDgjwCgUA1Xtj5rrs4aLGhJqB9E/edit#slide=id.gc6f919934_0_0) | [assignment](https://classroom.github.com/a/TLYDFwr3) |
 | 10 | Final project |  |
 
-### Learning materials
+## :books: Learning materials 
 
-#### Tools
+### :one: Entry level 
 
-- [Hardhat tutorial](https://hardhat.org/tutorial)
-- 
+#### Blockchain fundamentals
+
+- [Blockchain use-cases](https://academy.binance.com/en/articles/blockchain-use-cases)
+- [Consensus mechanisms](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm) 
+- [Review of blockchain consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
+- [Building Blockchain Projects: Building decentralized Blockchain applications with Ethereum and Solidity](https://www.amazon.com/gp/product/B01M0DMDDG) (book)
+- [Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition](https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191) (book)
+
+#### Preparing the environment
+
+- Install [hardhat coverage](https://www.npmjs.com/package/solidity-coverage) for convenient testing.
+- Install [hardhat etherscan](https://www.npmjs.com/package/@nomiclabs/hardhat-etherscan) for verifying contracts.
+- Install [hardhat-gas-reporter](https://www.npmjs.com/package/hardhat-gas-reporter) for estimating gas costs.
+- [Github actions](https://docs.github.com/en/actions/quickstart)
+
+#### EVM & Smart contracts
+
+- [EVM opcodes](https://www.evm.codes)
+- [Etherscan transaction explained](https://docs.ethhub.io/guides/deciphering-a-transaction-on-etherscan/)
+- [All You Need to Know about Environment Variables in TypeScript](https://levelup.gitconnected.com/all-you-need-to-know-about-environment-variables-in-typescript-2e7042edfac7)
+- [CryptoZombies](https://cryptozombies.io/) - cool game!
+
+#### Tutorials
+
+- Hardhat tutorial: [documentation](https://hardhat.org/tutorial), [article](https://dev.to/yakult/series/16254), [video](https://youtu.be/yD3BsYlRLA4)
+
+### :two: Intermediate level 
+
+- [Guide To Decentralized Finance](https://finematics.com/guide-to-decentralized-finance/)
+
+#### EVM & Smart contracts
+
+- [Deep Ethereum understanding](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
+- [Ethereum tutorials](https://ethereum.org/en/developers/tutorials/)
+- [Uniswap-V2 Contract Walk-through](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/#introduction)
+- [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [DelegateCall: Calling Another Contract Function in Solidity](https://medium.com/coinmonks/delegatecall-calling-another-contract-function-in-solidity-b579f804178c)
+- [OpenZeppelin guides, tutorials](https://docs.openzeppelin.com)
+- [OpenZeppelin cryptography functions](https://docs.openzeppelin.com/contracts/4.x/api/utils#ECDSA)
+
+### :three: Advanced level
+
+- [Using the UUPS proxy pattern to upgrade smart contracts](https://blog.logrocket.com/using-uups-proxy-pattern-upgrade-smart-contracts/#comparing-proxy-patterns)
+- [How To DeFi?](https://landing.coingecko.com/how-to-defi/) (book)
 
 
 ---
