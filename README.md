@@ -37,6 +37,7 @@
 #### EVM & Smart contracts
 
 - [EVM opcodes](https://www.evm.codes)
+- [Stop using transfer()](https://consensys.net/diligence/blog/2019/09/stop-using-soliditys-transfer-now/)
 - [Etherscan transaction explained](https://docs.ethhub.io/guides/deciphering-a-transaction-on-etherscan/)
 - [All You Need to Know about Environment Variables in TypeScript](https://levelup.gitconnected.com/all-you-need-to-know-about-environment-variables-in-typescript-2e7042edfac7)
 - [CryptoZombies](https://cryptozombies.io/) - cool game!
