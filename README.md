@@ -9,7 +9,7 @@
 | 3 | [ERC20 tokens](https://docs.google.com/presentation/d/1WA71SiQlbRFMF2WsVy0KAbucKoUIZEIIJ1hzaXjS9Ys/edit#slide=id.gc6f919934_0_0) | [assignment](https://classroom.github.com/a/6rT6Sx-Z) |
 | 4 | [Liquidity Pools and Staking](https://docs.google.com/presentation/d/1jXJK6HKrlLZEA90fJc0SWuTk41v1IA1uVKxzmx8_QZE/edit#slide=id.gc6f919934_0_0) | [assignment](https://classroom.github.com/a/oVYSf7kk) |
 | 5 | [NFT](https://docs.google.com/presentation/d/1uqlLt918qvrZgc4-m5UuHWvSXXTaAHXzE0I_2l9qEnI/edit#slide=id.gc6f919934_0_0) | [assignment](https://classroom.github.com/a/J5buHx6o) |
-| 6 | [NFT auction]() | [assignment](https://classroom.github.com/a/2dJp7T1z) |
+| 6 | [NFT auction](https://docs.google.com/document/d/1g0Q2ran73d0REIbQwob9OkFpwGdbQWH7wjFU20diHCI/edit) | [assignment](https://classroom.github.com/a/2dJp7T1z) |
 | 7 | [Cross-chain bridges](https://docs.google.com/presentation/d/1QIgOz9HVZIrGNB7CR3YOJeWOozZe-WB3m-8AX4c_ggw/edit#slide=id.gc6f919934_0_0) | [assignment](https://classroom.github.com/a/h2GysFqP) |
 | 8 | [Multisignature wallets](https://docs.google.com/presentation/d/1J-5VZFOkTTKrrqVmEhSyenNDIqJu9yr4-K3KOV4L4YI/edit#slide=id.gc6f919934_0_0) | [assignment](https://classroom.github.com/a/EFfMJX1M) |
 | 9 | [Decentralized exchange](https://docs.google.com/presentation/d/1ssG9f8lnuSmz8000QDgjwCgUA1Xtj5rrs4aLGhJqB9E/edit#slide=id.gc6f919934_0_0) | [assignment](https://classroom.github.com/a/TLYDFwr3) |
