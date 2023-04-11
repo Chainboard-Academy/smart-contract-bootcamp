@@ -1,4 +1,4 @@
-# Welcome to Solidity Smart-contract Developer Bootcamp!
+# Welcome to Junior Solidity Smart-contract Developer Bootcamp!
 
 ## Course content
 
